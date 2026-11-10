@@ -1,4 +1,4 @@
-Femi Daniel Somuyiwa
+**Femi Daniel Somuyiwa**
 
 Aspiring DevOps Engineer | Linux | Cloud Infrastructure | Automation | CI/CD
 
@@ -8,7 +8,7 @@ My learning focuses on the systems and workflows that help teams deliver softwar
 
 ---
 
-Current Focus
+__Current Focus__
 
 - Linux administration and networking.
 - Bash and Python automation.
